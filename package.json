@@ -1,5 +1,5 @@
 {
-  "name": "sonner",
+  "name": "@gajonedev/sonner",
   "version": "2.0.7",
   "description": "An opinionated toast component for React.",
   "exports": {
@@ -37,15 +37,15 @@
     "snackbar",
     "message"
   ],
-  "author": "Emil Kowalski <e@emilkowal.ski>",
+  "author": "gajonedev",
   "license": "MIT",
   "homepage": "https://sonner.emilkowal.ski/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emilkowalski/sonner.git"
+    "url": "git+https://github.com/gajonedev/sonner.git"
   },
   "bugs": {
-    "url": "https://github.com/emilkowalski/sonner/issues"
+    "url": "https://github.com/gajonedev/sonner/issues"
   },
   "devDependencies": {
     "@playwright/test": "^1.49.1",
